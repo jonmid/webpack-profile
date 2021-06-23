@@ -15,6 +15,7 @@ npm install
 ```bash
 npm run start
 ```
+Al actualizar el navegador web la imagen de perfil siempre va cambiar.
 
 ## Demo
 Live example [https://webpack-js-profile.netlify.app/](https://webpack-js-profile.netlify.app/)
